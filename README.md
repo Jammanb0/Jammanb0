@@ -14,46 +14,26 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20Modules-%23000000?style=flat&logo=cssmodules&logoColor=white&logoSize=auto">
 </p>
 
-**UI Library**
+**Libraries**
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Radix%20UI-%23161618?style=flat&logo=radixui&logoColor=white&logoSize=auto">
-</p>
-
-**State Management**
-<p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Zustand-%23433E38?style=flat&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/TanStack%20Query-%23FF4154?style=flat&logoColor=white&logoSize=auto">
-</p>
-
-**Routing**
-<p>
   <img alt="Static Badge" src="https://img.shields.io/badge/TanStack%20Router-%23FF4154?style=flat&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/React%20Router-%23CA4245?style=flat&logo=reactrouter&logoColor=white&logoSize=auto">
-</p>
-
-**Form & Validation**
-<p>
   <img alt="Static Badge" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990?style=flat&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Zod-%233E67B1?style=flat&logo=zod&logoColor=white&logoSize=auto">
-</p>
-
-**HTTP Client**
-<p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Axios-%235A29E4?style=flat&logo=axios&logoColor=white&logoSize=auto">
 </p>
 
-**Code Quality**
-<p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/ESLint-%234B32C3?style=flat&logo=eslint&logoColor=white&logoSize=auto">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Prettier-%23F7B93E?style=flat&logo=prettier&logoColor=white&logoSize=auto">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Stylelint-%23263238?style=flat&logo=stylelint&logoColor=white&logoSize=auto">
-</p>
-
-**Build & Package Manager**
+**Dev Tools**
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Vite-%239135FF?style=flat&logo=vite&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/npm-%23CB3837?style=flat&logo=npm&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/pnpm-%23F69220?style=flat&logo=pnpm&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ESLint-%234B32C3?style=flat&logo=eslint&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Prettier-%23F7B93E?style=flat&logo=prettier&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Stylelint-%23263238?style=flat&logo=stylelint&logoColor=white&logoSize=auto">
 </p>
 
 **Tools**
@@ -82,13 +62,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white&logoSize=auto">
 </p>
 
-**Tooling**
+**Tooling & Collaboration**
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Storybook-%23FF4785?style=flat&logo=storybook&logoColor=white&logoSize=auto">
-</p>
-
-**Collaboration**
-<p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Jira-%230052CC?style=flat&logo=jira&logoColor=white&logoSize=auto">
 </p>
 
