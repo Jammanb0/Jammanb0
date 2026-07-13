@@ -79,6 +79,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Vanilla%20Extract-%23111111?style=flat&logo=vanillaextract&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Framer%20Motion-%230055FF?style=flat&logo=framer&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/GSAP-%2388CE02?style=flat&logo=greensock&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white&logoSize=auto">
 </p>
 
 **Tooling**
