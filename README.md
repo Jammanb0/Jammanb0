@@ -78,6 +78,20 @@
 | **🌐 Web IDE** | 실시간 코드 동시 편집, 채팅, GitHub 로그인을 지원하는 실시간 웹 IDE | React · TypeScript · Vite · Yjs · Monaco Editor · Spring Boot | [![GitHub](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jammanb0/deepwebide-fe) |
 | **📍 DDOK** | 지도 기반 프로젝트·스터디 매칭 & 팀 협업 플랫폼 | React · TypeScript · Kakao Maps SDK · TanStack Router · Zustand | [![GitHub](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jammanb0/ddok-fe) |
 
+<br />
+
+## 🏆 Awards
+
+- **캡스톤 디자인 대회 동상** — 지능형 가로등: 태양광 수소 하이브리드 에너지 관리 시스템(EMS) (2024)
+- **한국디지털콘텐츠학회 우수논문상** — 태양광 발전 기반 가로등 EMS의 AI 최적화 설계 및 성능 비교 분석 (2024)
+
+<br />
+
+## 🎓 Education
+
+- **구름(goorm) x 인프런** · 자바 스프링 & 리액트 풀스택 개발자 성장 과정 13회차 수료 (2025.03 ~ 2025.09)
+
+
 
 <footer>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF4154,100:FFB746&&animation=fadeIn&section=footer">
