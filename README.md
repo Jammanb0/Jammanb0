@@ -94,5 +94,5 @@
 
 
 <footer>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF4154,100:FFB746&&animation=fadeIn&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF4154,100:FFB746&&animation=fadeIn&section=footer">
 </footer>
