@@ -10,7 +10,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-%233178C6?style=flat&logo=typescript&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%23663399?style=flat&logo=css&logoColor=white&logoSize=auto">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Sass-%23CC6699?style=flat&logo=sass&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20Modules-%23000000?style=flat&logo=cssmodules&logoColor=white&logoSize=auto">
 </p>
 
@@ -19,8 +18,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Radix%20UI-%23161618?style=flat&logo=radixui&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Zustand-%23433E38?style=flat&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/TanStack%20Query-%23FF4154?style=flat&logoColor=white&logoSize=auto">
-  <img alt="Static Badge" src="https://img.shields.io/badge/TanStack%20Router-%23FF4154?style=flat&logoColor=white&logoSize=auto">
-  <img alt="Static Badge" src="https://img.shields.io/badge/React%20Router-%23CA4245?style=flat&logo=reactrouter&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990?style=flat&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Zod-%233E67B1?style=flat&logo=zod&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Axios-%235A29E4?style=flat&logo=axios&logoColor=white&logoSize=auto">
