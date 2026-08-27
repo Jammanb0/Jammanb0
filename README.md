@@ -88,7 +88,7 @@
 |:---:|---|---|:---:|
 | **🌐 Web IDE** | 실시간 코드 동시 편집, 채팅, GitHub 로그인을 지원하는 실시간 웹 IDE | React · TypeScript · Vite · Yjs · Monaco Editor · Spring Boot | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jammanb0/deepwebide-fe) |
 | **📍 DDOK** | 지도 기반 프로젝트·스터디 매칭 & 팀 협업 플랫폼 | React · TypeScript · Kakao Maps SDK · TanStack Router · Zustand | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jammanb0/ddok-fe) |
-| **🎨 Swiftfolio Template** | 포크해서 바로 쓸 수 있는 오픈소스 React 포트폴리오 템플릿 | React · TypeScript · Vite · vanilla-extract · Framer Motion · GSAP | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jammanb0/swiftfolio-template) |
+| **🎨 Swiftfolio Template** | 바로 사용할 수 있는 오픈소스 React 포트폴리오 템플릿 | React · TypeScript · Vite · vanilla-extract · Framer Motion · GSAP | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jammanb0/swiftfolio-template) |
 | **🧵 Tailor** | AI의 도움으로 나만의 Claude Code Skill을 설계하고 만드는 웹 서비스 | Next.js · React · TypeScript · Tailwind CSS · Anthropic SDK | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jammanb0/tailor) |
 
 <br />
