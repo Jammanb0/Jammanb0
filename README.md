@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" alt="Guhn Park — 생각은 자유롭게, 코드는 견고하게" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Guhn%20Park&fontSize=50&fontColor=FFFFFF&fontAlignY=30&color=0:FF4154,100:FFB746&&animation=fadeIn&section=header&&desc=%EC%83%9D%EA%B0%81%EC%9D%80%20%EC%9E%90%EC%9C%A0%EB%A1%AD%EA%B2%8C,%20%EC%BD%94%EB%93%9C%EB%8A%94%20%EA%B2%AC%EA%B3%A0%ED%95%98%EA%B2%8C&descAlignY=50">
 
-  <h3>Frontend Developer</h3>
+  <h3>Web Developer &amp; AI Builder</h3>
   <p>사용자의 경험을 세심하게 다듬고, 오래 유지되는 코드를 만듭니다.</p>
 
   <p>
@@ -86,6 +86,7 @@
 
 | 프로젝트 | 설명 | 기술 스택 | 저장소 |
 |:---:|---|---|:---:|
+| **📄 레서담** | 이미지·문서를 PDF로 변환하고, 순서대로 또는 폴더별로 짝지어 합치는 Windows 도구 | Python · tkinter · pikepdf · img2pdf | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jammanb0/lesserdam) |
 | **🪨 doltap** | AI 코딩 세션의 규칙·진행 상태·결정 근거를 프로젝트 안 문서로 남기는 CLI | Node.js · Markdown · CLI | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jammanb0/doltap) |
 | **🧵 Tailor** | AI의 도움으로 나만의 Claude Code Skill을 설계하고 만드는 웹 서비스 | Next.js · React · TypeScript · Tailwind CSS · Anthropic SDK | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jammanb0/tailor) |
 | **🎨 Swiftfolio Template** | 바로 사용할 수 있는 오픈소스 React 포트폴리오 템플릿 | React · TypeScript · Vite · vanilla-extract · Framer Motion · GSAP | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jammanb0/swiftfolio-template) |
